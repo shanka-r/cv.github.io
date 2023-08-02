@@ -232,9 +232,9 @@
                 </li>
                 <li class="nav-item"><a class="nav-link" href="#" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
                 </li>
-                <li class="nav-item"><a class="nav-link" href="#" title="Instagram"><i class="fab fa-instagram"></i><span class="menu-title sr-only">Instagram</span></a>
+                <li class="nav-item"><a class="nav-link" href="https://instagram.com/shankar.97k?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" title="Instagram"><i class="fab fa-instagram"></i><span class="menu-title sr-only">Instagram</span></a>
                 </li>
-                <li class="nav-item"><a class="nav-link" href="#" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
+                <li class="nav-item"><a class="nav-link" href="www.linkedin.com/in/shankar-gavit" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
                 </li>
               </ul>
             </nav>
